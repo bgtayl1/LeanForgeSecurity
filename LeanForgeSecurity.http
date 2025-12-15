@@ -1,0 +1,6 @@
+@LeanForgeSecurity_HostAddress = http://localhost:5206
+
+GET {{LeanForgeSecurity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
